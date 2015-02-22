@@ -27,3 +27,6 @@ The different activities by test subjects are shown as a textual label.
 
 All other columns are measurements from the original data set. Only the columns with mean and standard deviation were retained. E.g. minimum/maximum data was ignored.
 
+As per assignment, all measurements were summarised per subject and per activity in each of these columns.
+
+
